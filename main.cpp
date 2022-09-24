@@ -164,7 +164,7 @@ int main()
 {
     int check1,check2,check3,check4,check5;
     cout<<"Welcome to the full math calculator experiment Alpha"<<endl;
-    cout<<"Choose what problem kind you want to solve:"<<endl;
+    cout<<"Choose what kind of problem do you want to solve:"<<endl;
     cout<<"One number problems(1)"<<endl;
     cout<<"Problems with the digits of a number(2)"<<endl;
     cout<<"Two numbers problems(3)"<<endl;
